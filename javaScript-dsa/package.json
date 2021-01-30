@@ -1,0 +1,33 @@
+{
+  "name": "javascript-dsa",
+  "version": "1.0.0",
+  "description": "a npm package that contains singley linked list, queue, stack, hash table and graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryantDavis1986/DSA.git"
+  },
+  "keywords": [
+    "dsa",
+    "front-end",
+    "back-end",
+    "linked-list",
+    "hash-table",
+    "queue",
+    "stack",
+    "graph"
+  ],
+  "author": "Bryant Davis <bryant.davis@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryantDavis1986/DSA/issues"
+  },
+  "homepage": "https://github.com/BryantDavis1986/DSA#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
